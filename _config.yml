@@ -1,7 +1,7 @@
 # Site settings
 title: Chloe's Home
 SEOTitle: Chloe的窝
-header-img: img/post-bg-desk.jpg
+header-img: myimages/IMG_7364.JPG
 email: yufengzha1995@gmail.com
 description: "I promise"
 keyword: "Chloezh R "
@@ -11,8 +11,8 @@ github_repo: "https://github.com/yufengzhang1995/yufengzhang1995.github.io.git" 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /myimgages/IMG_9770.JPG     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "太阳强烈，水波温柔"
+sidebar-avatar: /myimages/IMG_9770.JPG     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
